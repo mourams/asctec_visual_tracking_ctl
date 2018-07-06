@@ -1,0 +1,8 @@
+prefix=/home/mourams/hexv_ctl/install
+
+Name: ssf_updates
+Description: Description of ssf_updates
+Version: 0.1.0
+Cflags: -I/home/mourams/hexv_ctl/install/include
+Libs: -L/home/mourams/hexv_ctl/install/lib 
+Requires: roscpp ssf_core geometry_msgs

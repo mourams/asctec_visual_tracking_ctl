@@ -1,0 +1,8 @@
+prefix=/home/mourams/hexv_ctl/devel
+
+Name: asctec_hl_comm
+Description: Description of asctec_hl_comm
+Version: 0.1.0
+Cflags: -I/home/mourams/hexv_ctl/devel/include -I/home/mourams/hexv_ctl/src/asctec_mav_framework/asctec_hl_comm/include
+Libs: -L/home/mourams/hexv_ctl/devel/lib 
+Requires: message_runtime actionlib_msgs geometry_msgs sensor_msgs
