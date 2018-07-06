@@ -1,2 +1,0 @@
-asctec_mav_framework/asctec_hl_comm:asctec_mav_framework/asctec_hl_gps:asctec_mav_framework/asctec_hl_interface:asctec_mav_framework/asctec_mav_framework:ethzasl_sensor_fusion/ethzasl_sensor_fusion:ethzasl_sensor_fusion/sensor_fusion_comm:ethzasl_sensor_fusion/ssf_core:ethzasl_sensor_fusion/ssf_updates:mav_comm/mav_comm:mav_comm/mav_msgs:mav_comm/planning_msgs:visp_ros
--DCATKIN_DEVEL_PREFIX=/home/mourams/hexv_ctl/devel -DCMAKE_INSTALL_PREFIX=/home/mourams/hexv_ctl/install -G Unix Makefiles

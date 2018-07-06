@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC   -shared -Wl,-soname,libssf_core.so -o /home/mourams/hexv_ctl/devel/lib/libssf_core.so CMakeFiles/ssf_core.dir/src/SSF_Core.cpp.o CMakeFiles/ssf_core.dir/src/measurement.cpp.o CMakeFiles/ssf_core.dir/src/state.cpp.o 
